@@ -70,6 +70,7 @@ Following script trains VETO + MEET for PredCls
 By replacing the parameter of `MODEL.WEIGHT` to the trained model weight and selected dataset name in `DATASETS.TEST`, you can directly eval the model on validation or test set.
 
 ## Cite
+If you find our work useful in your research, please consider citing
 ```
        @inproceedings{sudhakaran2023vision,
          title={Vision Relation Transformer for Unbiased Scene Graph Generation},
