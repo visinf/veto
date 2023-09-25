@@ -69,6 +69,16 @@ Following script trains VETO + MEET for PredCls
 ## Test
 By replacing the parameter of `MODEL.WEIGHT` to the trained model weight and selected dataset name in `DATASETS.TEST`, you can directly eval the model on validation or test set.
 
+## Cite
+@inproceedings{sudhakaran2023vision,
+  title={Vision Relation Transformer for Unbiased Scene Graph Generation},
+  author={Sudhakaran, Gopika and Dhami, Devendra Singh and Kersting, Kristian and Roth, Stefan},
+  booktitle = {2023 {IEEE/CVF} International Conference on Computer Vision (ICCV), Paris, France, October 2-6, 2023},
+  year      = {2023},
+  publisher = {{IEEE}}, 
+  pages     = ....
+}
+
 ## Acknowledgment
 This repository is developed on top of the following code bases:
 1. Scene graph benchmarking framework develped by [KaihuaTang](https://github.com/KaihuaTang/Scene-Graph-Benchmark.pytorch)
