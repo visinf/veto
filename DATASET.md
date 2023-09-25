@@ -20,3 +20,4 @@ The following is adapted from [SHA + GCL](https://github.com/dongxingning/SHA-GC
 
 ## Depth Map Generation for VG and GQA Datasets:
 1. Depth maps for both the datatsets are generated using the monocular depth estimator [AdelaiDepth](https://github.com/aim-uofa/AdelaiDepth/tree/main/LeReS).
+2. Alternatively, download [VG-Depth.v2](https://drive.google.com/file/d/13QKtd-ZjrG0K8mBsWk41notleQWSeeYz/view?usp=sharing)
