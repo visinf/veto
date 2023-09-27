@@ -72,13 +72,13 @@ By replacing the parameter of `MODEL.WEIGHT` to the trained model weight and sel
 ## Cite
 If you find our work useful in your research, please consider citing
 ```
-       @inproceedings{sudhakaran2023vision,
-         title={Vision Relation Transformer for Unbiased Scene Graph Generation},
-         author={Sudhakaran, Gopika and Dhami, Devendra Singh and Kersting, Kristian and Roth, Stefan},
-         booktitle = {2023 {IEEE/CVF} International Conference on Computer Vision (ICCV), Paris, France, October 2-6, 2023},
-         year      = {2023},
-         publisher = {{IEEE}}, 
-         pages     = ....
+       @InProceedings{Sudhakaran_2023_ICCV,
+           author    = {Sudhakaran, Gopika and Dhami, Devendra Singh and Kersting, Kristian and Roth, Stefan},
+           title     = {Vision Relation Transformer for Unbiased Scene Graph Generation},
+           booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+           month     = {October},
+           year      = {2023},
+           pages     = {21882-21893}
        }
 ```
 ## Acknowledgment
